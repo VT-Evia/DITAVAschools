@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="apply-college" xml:lang="en">
+  <title>How to Apply for College</title>
+  <prerequisites>
+    <p>Ensure you have your high school transcript, standardized test scores, and letters of recommendation ready before starting the application process.</p>
+  </prerequisites>
+  <context>
+    <p>This task provides step-by-step instructions to help students apply for college successfully.</p>
+  </context>
+  <steps>
+    <step>
+      <cmd>Research Colleges</cmd>
+      <info>
+        <p>Identify colleges that match your academic interests, location preferences, and financial considerations. Use online resources, college fairs, and campus visits to gather information.</p>
+      </info>
+    </step>
+    <step>
+      <cmd>Gather Application Materials</cmd>
+      <info>
+        <p>Collect necessary documents such as transcripts, test scores, personal essays, and letters of recommendation. Make sure all materials meet the specific requirements of each college.</p>
+      </info>
+    </step>
+    <step>
+      <cmd>Complete the Application</cmd>
+      <info>
+        <p>Fill out the application forms provided by each college. Double-check all entries for accuracy and completeness before submitting.</p>
+      </info>
+    </step>
+    <step>
+      <cmd>Submit Your Application</cmd>
+      <info>
+        <p>Send your completed application along with any required fees or supplemental materials by the designated deadlines. Keep records of your submissions.</p>
+      </info>
+    </step>
+    <step>
+      <cmd>Follow Up</cmd>
+      <info>
+        <p>Confirm that each college has received your application. Respond promptly to any additional requests or communications from the admissions offices.</p>
+      </info>
+    </step>
+  </steps>
+  <result>
+    <p>By following these steps, you will have successfully applied to your chosen colleges. Await further instructions from the admissions offices regarding interviews or acceptance notifications.</p>
+  </result>
+</task>
